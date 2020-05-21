@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "hello-word"
+  "defaultProject": "hello-word",
+  "cli": {
+    "analytics": "b4db73a5-a471-4f1f-b402-9f724187db8c"
+  }
 }
