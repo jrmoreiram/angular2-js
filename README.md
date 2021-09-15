@@ -1,5 +1,5 @@
 # angular2-js
-Projeto angular2.js.
+Projeto hello word utilizando Angular2.js
 
 ![](images/angular2.png?raw=true)
 
